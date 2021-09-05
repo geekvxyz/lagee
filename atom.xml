@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.lagee.gay</id>
     <title>机丸</title>
-    <updated>2021-09-05T15:04:44.359Z</updated>
+    <updated>2021-09-05T15:10:44.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.lagee.gay"/>
     <link rel="self" href="https://blog.lagee.gay/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://blog.lagee.gay/images/avatar.png</logo>
     <icon>https://blog.lagee.gay/favicon.ico</icon>
     <rights>All rights reserved 2021, 机丸</rights>
+    <entry>
+        <title type="html"><![CDATA[网站头像诞生]]></title>
+        <id>https://blog.lagee.gay/2109051/</id>
+        <link href="https://blog.lagee.gay/2109051/">
+        </link>
+        <updated>2021-09-05T15:05:54.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一篇文章测试]]></title>
         <id>https://blog.lagee.gay/2109041/</id>

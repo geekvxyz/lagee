@@ -1886,7 +1886,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-theme-color-second {
-          background: #ffffff!important;
+          background: #e7f5ff!important;
         }
         
         .gt-bg-content-color-first {
@@ -1898,11 +1898,11 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-bg-accent-color-first {
-          background: #f5bab2!important;
+          background: #339af0!important;
         }
         
         .gt-bg-accent-color-second {
-          background: RGBA(245,186,178,0.14)!important;
+          background: RGBA(51,154,240,0.2)!important;
         }
         
         .gt-c-theme-color-first {
@@ -1910,7 +1910,7 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-theme-color-second {
-          color: #ffffff!important;
+          color: #e7f5ff!important;
         }
         
         .gt-c-content-color-first {
@@ -1922,11 +1922,11 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         .gt-c-accent-color-first {
-          color: #f5bab2!important;
+          color: #339af0!important;
         }
         
         .gt-c-accent-color-second {
-          color: RGBA(245,186,178,0.14)!important;
+          color: RGBA(51,154,240,0.2)!important;
         }
         
         body {
@@ -1934,40 +1934,40 @@ code::-webkit-scrollbar-thumb:hover {
         }
         
         a {
-          color: #f5bab2!important;
+          color: #339af0!important;
         }
         
         .post-content h1 {
           display: inline-block;
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(245,186,178,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(51,154,240,0.4) 0)!important;
         }
         
         .post-content h2 {
           display: inline-block;
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(245,186,178,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(51,154,240,0.4) 0)!important;
         }
         
         .gt-a-link {
           color: #5f6169!important;
           position: relative!important;
-          background: linear-gradient(180deg, transparent 75%, RGBA(245,186,178,0.4) 0)!important;
+          background: linear-gradient(180deg, transparent 75%, RGBA(51,154,240,0.4) 0)!important;
         }
         
         .gt-post-content a {
-          color: #f5bab2!important;
+          color: #339af0!important;
         }
         
         .gt-post-content blockquote {
-          background: RGBA(245,186,178,0.14)!important;
-          border-color: #f5bab2!important;
+          background: RGBA(51,154,240,0.2)!important;
+          border-color: #339af0!important;
         }
         
         .gt-post-content code {
-          background: RGBA(245,186,178,0.14)!important;
+          background: RGBA(51,154,240,0.2)!important;
         }
         
         input::placeholder {
@@ -1976,6 +1976,6 @@ code::-webkit-scrollbar-thumb:hover {
         
         .search-input {
           color: #5f6169!important;
-          background-color: #ffffff!important;
+          background-color: #e7f5ff!important;
         }
          
